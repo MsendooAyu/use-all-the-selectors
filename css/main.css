@@ -38,6 +38,10 @@ strong + .dfn {
   color: #fff;
 }
 
-a {
+a:not(.no-highlight) {
   background-color: #719e07;
+}
+
+rel="external":link{
+  background-color: #2694d8;
 }
