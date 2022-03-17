@@ -54,11 +54,11 @@ li:last-of-type ol {
   color: #2aa198;
 }
 
-li:nth-child(odd).types {
+li:nth-of-type(odd).types {
   background-color: #657ba3;
 }
 
-li:nth-child(even) .types {
+li:nth-of-type(even) .types {
   background-color: #586e75;
 }
 
